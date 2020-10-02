@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#615E5F</color>
-    <color name="bgColor">#000000</color>
-    <color name="bgKotak">#11615454</color>
-    <color name="text">#FFFFFF</color>
-</resources>
