@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DTS</string>
+    <string name="menuHome">Reload</string>
+    <string name="backHome">Keluar</string>
+</resources>
